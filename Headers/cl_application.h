@@ -9,7 +9,7 @@
 #include "printer.h"
 
 /*
-Объект «система».
+Объект «система»
 */
 
 class cl_application: public cl_base

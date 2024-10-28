@@ -19,4 +19,6 @@ add_executable(COURSE_WORK main.cpp
         taker.cpp
         taker.h
         cl_application.cpp
-        cl_application.h)
+        cl_application.h
+        Sources/cl_base.cpp
+        Sources/taker.cpp)
